@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b6a7513d-1f15-49fb-9c02-07c0e93780c1" name="webdev-cse476-project2" url="http://webdev.cse.msu.edu/~zhang546/cse476/project2">
+        <fileTransfer host="arctic.cse.msu.edu" port="22" rootFolder="/user/zhang546/classweb/cse476/project2" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
